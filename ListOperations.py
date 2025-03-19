@@ -81,7 +81,7 @@ print(squares)
 
 evens = [x for x in range(10) if x % 2 == 0]  # Filter even numbers
 print(evens)
-
+ 
 # ========================== CHECKING ELEMENT EXISTENCE ==========================  
 print(3 in list1)  # Check if 3 is in list
 print(100 not in list1)  # Check if 100 is not in list
